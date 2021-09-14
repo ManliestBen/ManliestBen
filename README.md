@@ -12,6 +12,7 @@
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/macos-catalina-brightgreen.svg?style=flat-square" />  </a>
 
   </div>
   <hr>
