@@ -15,6 +15,7 @@
   </div>
   <hr>
   <div>
+    <h3>Comfortable working in:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
@@ -22,6 +23,7 @@
   </div>
   <hr>
   <div>
+      <h3>Proficient with:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&for-the-badge&logo=Raspberry-Pi" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
