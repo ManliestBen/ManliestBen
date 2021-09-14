@@ -7,6 +7,7 @@
   <h3>I’m a software engineering instructor based in Austin, Texas. I'm happiest when I'm helping aspiring software engineers to code.  I'm also a rabid raspberry pi fanatic and can talk your ear off for hours about anything IoT.  </h3>
   <hr>
   <div>
+    <h3>Reach out:</h3>
     <a href="https://www.benmanley.biz/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/benjamintmanley/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/manlisetben"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
