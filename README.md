@@ -3,7 +3,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manliestben&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manliestben&layout=compact&theme=react" /></a> 
   <hr>
-  ## A little about me:
+  <h2>A little about me</h2>
   <div>
     <a href="https://www.benmanley.biz/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/benjamintmanley/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
