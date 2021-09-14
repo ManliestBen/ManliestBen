@@ -23,7 +23,7 @@
   </div>
   <hr>
   <div>
-      <h3>Proficient with:</h3>
+      <h3>Proficiencies:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&for-the-badge&logo=Raspberry-Pi" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
