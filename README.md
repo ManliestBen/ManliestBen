@@ -4,7 +4,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manliestben&layout=compact&theme=react" /></a> 
   <hr>
   <h2>A little about me:</h2>
-  <h3>I’m a software engineering instructor based in Austin, Texas. I'm happiest when I'm helping aspiring software engineers to code.  I'm also a rabid raspberry pi fanatic and can talk your ear off for hours about anything IoT.  </h3>
+  <h3>I’m a software engineering instructor based in Austin, Texas. I'm happiest when I'm helping aspiring software engineers learn to code.  I'm also a rabid raspberry pi fanatic and can talk your ear off for hours about anything IoT.  </h3>
   <hr>
   <div>
     <h3>Reach out:</h3>
